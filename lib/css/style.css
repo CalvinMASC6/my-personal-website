@@ -5,7 +5,11 @@ header{
     text-align: center;
     border: solid;
     border-color: rgba(27, 95, 204, 0.479);
-    font-size: 150%;
-    background-color: rgba(0, 26, 12, 0.87);
+    font-size: 200%;
+    background-color: rgba(0, 59, 28, 0.87);
     -webkit-text-fill-color: #2e889a;
+}
+h1{
+    text-align: center;
+    -webkit-text-fill-color: rgba(36, 179, 112, 0.801)
 }
